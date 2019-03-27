@@ -29,7 +29,7 @@ module.exports = {
     Invisible reCaptcha secret key
     Create one in https://www.google.com/recaptcha/intro/
   */
-  RECAPTCHA_SECRET_KEY: '6LfA_5kUAAAAADwy03k2u9MNVG4mypB-nR2yk4hp',
+  RECAPTCHA_SECRET_KEY: '6LeCQJoUAAAAAN0auP7lB_r1-IWaoCWyr97wHnND',
 
   /* 
     Google Cloud API to prevent from users from submitting malware URLs.
