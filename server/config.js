@@ -2,7 +2,7 @@ module.exports = {
   PORT: process.env.PORT,
 
   /* The domain that this website is on */
-  DEFAULT_DOMAIN: 'kuttpractice.herokuapp.com',
+  DEFAULT_DOMAIN: '',
 
   /* Neo4j database credential details */
   DB_URI: 'bolt://hobby-hljjgcdlapbogbkekgjfppcl.dbs.graphenedb.com:24787',
