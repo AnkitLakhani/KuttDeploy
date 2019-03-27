@@ -35,7 +35,7 @@ module.exports = {
     Google Cloud API to prevent from users from submitting malware URLs.
     Get it from https://developers.google.com/safe-browsing/v4/get-started
   */
-  GOOGLE_SAFE_BROWSING_KEY: '',
+  GOOGLE_SAFE_BROWSING_KEY: 'AIzaSyBNAvH6YeCWs9w0OuJH3qn8bsE9ssPH6EA',
 
   /* 
     Google Analytics tracking ID for universal analytics.
